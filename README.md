@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/anontoriad36684" target="blank"><img src="https://img.shields.io/twitter/follow/anontoriad36684?logo=twitter&style=for-the-badge" alt="anontoriad36684" /></a> </p>
 
-- 🔭 I’m currently studying as a 3rd year undergrad at **BUET**
+- 🔭 I’m currently studying as a 3rd year undergrad student at **BUET**
 
 - 🌱 I’m currently learning **ML and DevOps**
 
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **anything related/not related to my work that interests you**
 
-- 📫 How to reach me **riadahmedanonto355@gmail.com**
+- 📫 You can reach me at **riadahmedanonto355@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
