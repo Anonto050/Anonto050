@@ -7,7 +7,7 @@
 <br>
 
 
-- 🔭 I’m currently studying as a 3rd year CS undergrad student at **BUET**
+- 🔭 I’m currently studying as a 4th year CS undergrad student at **BUET**
 
 - 🌱 I’m currently learning **ML and DevOps**
 
