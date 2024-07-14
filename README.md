@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, This is Riad Ahmed Anonto 👨🏻‍💻</h1>
 <h3 align="center">An enthusiastic developer from Bangladesh</h3>
 <br>
-<br>
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
-<br>
+
 
 
 - 🔭 I’m currently studying as a 4th year CS undergrad student at **BUET**
@@ -19,12 +19,15 @@
 
   <br>
   <br>
+  <br>
 
 ## 📚 ***Academics***
   
 Find everything related to my undergraduate academic life here 
 
   [![Undergraduate-Academics-BUET_CSE](https://img.shields.io/badge/Anonto050-Undergraduate--Academics--BUET_CSE-green?style=for-the-badge&color=green&logo=GitHub&logoColor=FFFFFF&link=https://github.com/Anonto050/Undergraduate-Academics-BUET_CSE)](https://github.com/Anonto050/Undergraduate-Academics-BUET_CSE)
+
+<br>
 
 ## 📲 ***Connect with Me*** 
 <p align="left">
