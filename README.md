@@ -18,6 +18,13 @@
 - 📫 You can reach me at [***Mail***](mailto:riadahmedanonto355@gmail.com) or [***Linkedin***](https://www.linkedin.com/in/riad-ahmed-anonto-7338301b0/) 🔗
 
   <br>
+  <br>
+
+## 📚 ***Academics***
+  
+Find everything related to my undergraduate academic life here 
+
+  [![Undergraduate-Academics-BUET_CSE](https://img.shields.io/badge/Anonto050-Undergraduate--Academics--BUET_CSE-green?style=for-the-badge&color=green&logo=GitHub&logoColor=FFFFFF&link=https://github.com/Anonto050/Undergraduate-Academics-BUET_CSE)](https://github.com/Anonto050/Undergraduate-Academics-BUET_CSE)
 
 ## 📲 ***Connect with Me*** 
 <p align="left">
