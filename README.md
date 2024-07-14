@@ -25,7 +25,9 @@
   
 Find everything related to my undergraduate academic life here 
 
-  [![Undergraduate-Academics-BUET_CSE](https://img.shields.io/badge/Anonto050-Undergraduate--Academics--BUET_CSE-green?style=for-the-badge&color=green&logo=GitHub&logoColor=FFFFFF&link=https://github.com/Anonto050/Undergraduate-Academics-BUET_CSE)](https://github.com/Anonto050/Undergraduate-Academics-BUET_CSE)
+  [![Undergraduate-Academics-BUET_CSE](https://img.shields.io/badge/Anonto050-Undergraduate--Academics--BUET_CSE-006400?style=for-the-badge&logo=GitHub&logoColor=FFFFFF&link=https://github.com/Anonto050/Undergraduate-Academics-BUET_CSE)](https://github.com/Anonto050/Undergraduate-Academics-BUET_CSE)
+
+
 
 <br>
 
