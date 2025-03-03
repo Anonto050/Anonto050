@@ -83,7 +83,13 @@ Find everything related to my undergraduate academic life here
 
 <p align="center">&nbsp;<img align="center" height="200px" width="450px" src="https://github-readme-stats.vercel.app/api?username=anonto050&show_icons=true&locale=en&count_private=true&theme=algolia&hide_border=true" alt="anonto050" /></p>
 
-<p align="center"><img align="center" height="200px" width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=anonto050&show_icons=true&locale=en&count_private=true&theme=algolia&hide_border=true" alt="anonto050" /></p>
+<p align="center">
+    <img align="center" height="200px" width="450px" 
+        src="https://streak-stats.demolab.com/?user=anonto050&theme=algolia&hide_border=true" 
+        alt="anonto050" />
+</p>
+
+
 <!---<p align="center"><img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=anonto050&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=true&hide=css,scss,html" alt="anonto050" /></p>-->
 <p align="center">
 <a href="https://github.com/anonto050">
