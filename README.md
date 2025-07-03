@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently studying as a 4th year CS undergrad student at **BUET**
+- 🔭 I’m currently working as a Software Enginner at **Therap BD Ltd**
 
 - 🌱 I’m currently learning **ML and DevOps**
 
