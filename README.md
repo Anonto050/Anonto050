@@ -1,21 +1,17 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
-<h1 align="center">Hi 👋, This is Riad Ahmed Anonto 👨🏻‍💻</h1>
-<h3 align="center">An enthusiastic developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Riad Ahmed Anonto 👨🏻‍💻</h1>
+<h3 align="center">🎓 CS PhD Student @ Virginia Tech | 🛡️ AI Security Researcher</h3>
 <br>
 
 <img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 
 
-- 🔭 I’m currently working as a Software Enginner at **Therap BD Ltd**
-
-- 🌱 I’m currently learning **ML and DevOps**
-
-- 💼 You can reach out to me **for work opportunities like Software Engineering/ ML Engineering roles**
-
-- 💬 Ask me about **anything related to my work that interests you**
-
-- 📫 You can reach me at [***Mail***](mailto:riadahmedanonto355@gmail.com) or [***Linkedin***](https://www.linkedin.com/in/riad-ahmed-anonto-7338301b0/) 🔗
+- 🔭 **Current Focus:** Researching AI Security, specifically agent trajectory vulnerabilities, adversarial attacks & defenses, and model robustness.
+- 🌱 **Currently Exploring:** Advanced Agentic Frameworks, AI Safety Models, and AI Red Teaming.
+- 💼 **Open To:** Research collaborations and Research/ML Engineering Internship opportunities for Summer 2027.
+- 💬 **Ask me about:** AI Security, LLM Safety, Software Architecture, or your favorite movies, TV series, and travel spots! 🎬✈️
+- 📫 **Reach me at:** [Email](mailto:riadahmedanonto355@gmail.com) | [LinkedIn](https://www.linkedin.com/in/riad-ahmed-anonto-7338301b0/) 🔗
 
   <br>
   <br>
